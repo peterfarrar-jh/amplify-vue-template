@@ -6,4 +6,6 @@ import outputs from "../amplify_outputs.json";
 
 Amplify.configure(outputs);
 
+
 createApp(App).mount("#app");
+
